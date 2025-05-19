@@ -4,7 +4,7 @@ A clean, responsive web app that generates 5 random color palettes on every clic
 
 ## 🚀 Live Demo
 
-[🔗 View Live](https://https://mahi1974.github.io/color-palette/)  
+[🔗 View Live](https://mahi1974.github.io/color-palette/)  
 
 ---
 
